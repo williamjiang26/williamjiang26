@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @williamjiang26
-- 👀 I’m interested in starting my own company
+- 👀 I’m interested in ...
 - 🌱 I’m currently learning 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me linkedin @williamjiang26
