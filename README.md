@@ -9,7 +9,7 @@
   <img src="https://komarev.com/ghpvc/?username=williamjiang26&style=for-the-badge&label=VIEWS" alt="Pageview Badge"/>
     </a>
   <a href="https://wims-sage.vercel.app">
-    <img src="https://img.shields.io/badge/Portfolio-ff69b8?style=for-the-badge&" alt="Portfolio Badge"/>
+    <img src="https://img.shields.io/badge/Portfolio-yellow?style=for-the-badge&" alt="Portfolio Badge"/>
   </a>
   <a href="https://www.linkedin.com/in/william-jiang26/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
