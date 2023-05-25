@@ -7,7 +7,7 @@
 <div id="badges" align="center">
 
   <a> 
-  <img src="https://komarev.com/ghpvc/?username=DarienNouri&style=for-the-badge&label=VIEWS" alt="Pageview Badge"/>
+  <img src="https://komarev.com/ghpvc/?username=williamjiang26&style=for-the-badge&label=VIEWS" alt="Pageview Badge"/>
     </a>
   <a href="https://www.darien.ai">
     <img src="https://img.shields.io/badge/Portfolio-ff69b4?style=for-the-badge&" alt="Portfolio Badge"/>
