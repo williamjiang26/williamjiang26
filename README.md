@@ -41,7 +41,7 @@
 
 
 ###  How to reach me:
-- Email: [wj2065@nyu.edu](mailto:dan9232@nyu.edu)
+- Email: [wj2065@nyu.edu](mailto:wj2065@nyu.edu)
 - GitHub: [williamjiang26](https://github.com/williamjiang26)
 - Website: 
 
