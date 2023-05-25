@@ -41,11 +41,11 @@
 ---
 
 ###  I’m currently working on:
-- **PropertizeAI** - Exploring investment potential of predictive alternative data sources in NYC real estate
-- **Predictive Analytics & A.I. Lab** - Conducting NLP based alterative data research into political elections.
+- **WIMS** - Logistics software for small businesses
+- **** - 
 
 ###  I’m currently learning:
-- NLP Applications in Big Data, Advanced Machine Learning, Deep-Learning, Algorithms
+- Machine Learning and Robotics
 
 ###  I’m looking to collaborate on:
 - Data-driven projects, ML frameworks, data pipelines, and business intelligence tools
