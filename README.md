@@ -17,14 +17,6 @@
 </div>
 
 <br> <br>
-
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=williamjiang26&count_private=true&theme=tokyonight&hide=stars,prs,issues,contribs" alt="William's GitHub stats" width="400"/>
-
- <br> 
-</p>
-
 <p align="center"><h1 align="center"
 
 ><strong>Hi there, I'm William Jiang 👋</strong>
