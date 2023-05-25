@@ -15,8 +15,6 @@
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
 </div>
-
-<br> <br>
 <p align="center"><h1 align="center"
 
 ><strong>Hi there, I'm William Jiang 👋</strong>
