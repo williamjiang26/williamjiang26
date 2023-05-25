@@ -1,4 +1,3 @@
-<img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/python.svg" />
 
 <div id="header" align="center">
   <img src="" width="100"/>
