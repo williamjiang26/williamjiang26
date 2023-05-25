@@ -28,11 +28,11 @@
 
 <p align="center"><h1 align="center"
 
-><strong>Hi there, I'm Darien Nouri 👋</strong>
+><strong>Hi there, I'm William Jiang 👋</strong>
 </h1>
 
 <div align="center">
-    📚 Joint Major in Data Science and Computer Science at <strong>New York University</strong>
+    📚 Computer Science at <strong>New York University</strong>
 </div>
 </p>
 
@@ -52,8 +52,8 @@
 
 
 ###  How to reach me:
-- Email: [dan9232@nyu.edu](mailto:dan9232@nyu.edu)
-- GitHub: [DarienNouri](https://github.com/DarienNouri)
+- Email: [wj2065@nyu.edu](mailto:dan9232@nyu.edu)
+- GitHub: [williamjiang26](https://github.com/williamjiang26)
 - Website: [darien.ai](http://darien.ai)
 
 ---
