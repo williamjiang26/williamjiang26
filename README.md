@@ -37,7 +37,7 @@
 - Machine Learning and Robotics
 
 ###  I’m looking to collaborate on:
-- Data-driven projects, ML frameworks, data pipelines, and business intelligence tools
+- 
 
 
 ###  How to reach me:
