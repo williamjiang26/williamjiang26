@@ -50,6 +50,5 @@
 ### ⚡ Fun facts:
 - I love to hoop, ski and cook
 
-<!--add line spacing -->
 <br> <br>
 
