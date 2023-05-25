@@ -1,7 +1,7 @@
 <img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/python.svg" />
 
 <div id="header" align="center">
-  <img src="profile_pic.png" width="100"/>
+  <img src="" width="100"/>
 </div>
 
 <div id="badges" align="center">
@@ -9,10 +9,10 @@
   <a> 
   <img src="https://komarev.com/ghpvc/?username=williamjiang26&style=for-the-badge&label=VIEWS" alt="Pageview Badge"/>
     </a>
-  <a href="https://www.darien.ai">
+  <a href="https://wims-sage.vercel.app">
     <img src="https://img.shields.io/badge/Portfolio-ff69b4?style=for-the-badge&" alt="Portfolio Badge"/>
   </a>
-  <a href="https://www.linkedin.com/in/darien-nouri/">
+  <a href="https://www.linkedin.com/in/william-jiang26/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
 </div>
@@ -21,7 +21,7 @@
 
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=dariennouri&count_private=true&theme=tokyonight&hide=stars,prs,issues,contribs" alt="Darien's GitHub stats" width="400"/>
+<img src="https://github-readme-stats.vercel.app/api?username=williamjiang26&count_private=true&theme=tokyonight&hide=stars,prs,issues,contribs" alt="William's GitHub stats" width="400"/>
 
  <br> 
 </p>
@@ -54,15 +54,12 @@
 ###  How to reach me:
 - Email: [wj2065@nyu.edu](mailto:dan9232@nyu.edu)
 - GitHub: [williamjiang26](https://github.com/williamjiang26)
-- Website: [darien.ai](http://darien.ai)
+- Website: 
 
 ---
 
 ### ⚡ Fun facts:
-- I'm a pianist, DJ, avid backcountry skier, and 3D-printing enthusiast
-- ASA Certified Sailing Captain
-- I have recently been working on integrating film scores and house
-
+- I love to hoop, ski and cook
 
 <!--add line spacing -->
 <br> <br>
