@@ -1,6 +1,6 @@
 
 <div id="header" align="center">
-  <img src="1672159096554.jpeg" width="100"/>
+  <img src="1672159096554.jpeg"/>
 </div>
 
 <div id="badges" align="center">
