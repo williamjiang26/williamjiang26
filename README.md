@@ -8,7 +8,7 @@
   <a> 
   <img src="https://komarev.com/ghpvc/?username=williamjiang26&style=for-the-badge&label=VIEWS" alt="Pageview Badge"/>
     </a>
-  <a href="https://wims-sage.vercel.app">
+  <a href="https://portfolio-williamjiang26.vercel.app">
     <img src="https://img.shields.io/badge/Portfolio-yellow?style=for-the-badge&" alt="Portfolio Badge"/>
   </a>
   <a href="https://www.linkedin.com/in/william-jiang26/">
