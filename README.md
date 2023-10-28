@@ -21,7 +21,7 @@
 </h1>
 
 <div align="center">
-    📚 Computer Science at <strong>New York University</strong>
+    📚 Computer Science at <strong>New York University @ Shanghai</strong>
 </div>
 </p>
 
@@ -30,6 +30,7 @@
 ---
 
 ###  I’m currently working on:
+- **BDI(Capstone)** - Mental Health app
 - **WIMS** - Logistics software for small businesses
 - **** - 
 
