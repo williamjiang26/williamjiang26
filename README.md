@@ -8,10 +8,10 @@
   <a> 
   <img src="https://komarev.com/ghpvc/?username=williamjiang26&style=for-the-badge&label=VIEWS" alt="Pageview Badge"/>
     </a>
-  <a href="https://portfolio-williamjiang26.vercel.app">
+  <a href="http://williamjiang.co">
     <img src="https://img.shields.io/badge/Portfolio-yellow?style=for-the-badge&" alt="Portfolio Badge"/>
   </a>
-  <a href="https://www.linkedin.com/in/william-jiang26/">
+  <a href="https://www.linkedin.com/in/williamjiang26/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
 </div>
@@ -30,8 +30,7 @@
 ---
 
 ###  I’m currently working on:
-- **BDI(Capstone)** - Mental Health app
-- **WIMS** - Logistics software for small businesses
+- **STOREFRONT** - Super app for managing a small business
 - **** - 
 
 ###  I’m currently learning:
