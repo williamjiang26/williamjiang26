@@ -30,9 +30,8 @@
 ---
 
 ###  I’m currently working on:
-- **STOREFRONT** - Super app for managing a small businesses. Enables small businesses to launch online stores with zero coding experience
-- optimized for search engine
-- **** - 
+- **STOREFRONT** - Enables small businesses to launch online stores with zero coding experience
+- **Operations Dashboard** - Super app for owners to easily manage their small businesses. (from payments, inventory to customer orders)
 
 ###  I’m currently learning:
 - Machine Learning and Robotics
@@ -48,8 +47,10 @@
 
 ---
 
-### ⚡ Fun facts:
-- I love to hoop, ski and cook
+### ⚡ Hobbies:
+- Basketball
+- Ski
+- Cooking
 
 <br> <br>
 
