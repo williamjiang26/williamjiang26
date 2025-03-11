@@ -30,7 +30,8 @@
 ---
 
 ###  I’m currently working on:
-- **STOREFRONT** - Super app for managing a small business
+- **STOREFRONT** - Super app for managing a small businesses. Enables small businesses to launch online stores with zero coding experience
+- optimized for search engine
 - **** - 
 
 ###  I’m currently learning:
