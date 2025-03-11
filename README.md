@@ -49,7 +49,7 @@
 
 ### ⚡ Hobbies:
 - Basketball
-- Ski
+- Skiing
 - Cooking
 
 <br> <br>
