@@ -37,8 +37,6 @@
 - Machine Learning and Robotics
 - Scalable distributed applications
 
-###  I’m looking to collaborate on:
-- 
 
 
 ###  How to reach me:
