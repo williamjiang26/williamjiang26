@@ -37,13 +37,6 @@
 - Machine Learning and Robotics
 - Scalable distributed applications
 
-
-
-###  How to reach me:
-- Email: [wj2065@nyu.edu](mailto:wj2065@nyu.edu)
-
- 
-
 ---
 
 ### ⚡ Hobbies:
