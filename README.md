@@ -21,7 +21,7 @@
 </h1>
 
 <div align="center">
-    
+    I'm a based in NYC. I'm interested in startups, emerging tech, building and designing products to solve problems. 
 </div>
 </p>
 
