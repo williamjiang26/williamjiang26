@@ -32,7 +32,3 @@
 ###  I’m currently working on:
 - **ERP for SMBs** - A dashboard for business owners to manage their inventory, customer orders and customer info. 
 
-###  I’m currently learning:
-- 
-- Machine Learning and Robotics
-- Scalable distributed applications
