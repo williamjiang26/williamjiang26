@@ -21,7 +21,7 @@
 </h1>
 
 <div align="center">
-    📚 Computer Science at <strong>New York University @ Shanghai</strong>
+    
 </div>
 </p>
 
