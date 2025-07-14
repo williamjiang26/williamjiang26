@@ -30,19 +30,9 @@
 ---
 
 ###  I’m currently working on:
-- **STOREFRONT** - Enables small businesses to launch online stores with zero coding experience
-- **Operations Dashboard** - Super app for owners to easily manage their small businesses. (from payments, inventory to customer orders)
+- **ERP for SMBs** - A dashboard for business owners to manage their inventory, customer orders and customer info. 
 
 ###  I’m currently learning:
+- 
 - Machine Learning and Robotics
 - Scalable distributed applications
-
----
-
-### ⚡ Hobbies:
-- Basketball
-- Skiing
-- Cooking
-
-<br> <br>
-
