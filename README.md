@@ -17,7 +17,7 @@
 </div>
 <p align="center"><h1 align="center"
 
-><strong>Hi there, I'm William Jiang 👋</strong>
+><strong>Hi! I'm William Jiang 👋</strong>
 </h1>
 
 <div align="center">
