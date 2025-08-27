@@ -16,13 +16,11 @@
 <p align="center">
 <h1 align="center"><strong>Hi! I'm William Jiang</strong></h1>
 <div align="center">
-    I'm a based in NYC. I'm interested in startups, emerging tech, building to solve problems and designing for the end user. 
+    I'm based in NYC. I'm interested in startups, emerging tech and operations of large engineering projects.  I'm an engineer who builds and designs products for the user solving their problem. Currently I am working on software for small business operations.
 </div>
 </p>
 <br>
 
 ---
 
-###  I’m currently working on:
-- **ERP for SMBs** - A dashboard for business owners to manage their inventory, customer orders and customer info. 
 
