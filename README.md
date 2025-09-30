@@ -3,7 +3,7 @@
   <img src="1672159096554.jpeg"/>
 </div> -->
 <p align="center">
-<h1 align="center"><strong>Hi! I'm William Jiang</strong></h1>
+<h1 align="center"><strong>Hi! I'm William</strong></h1>
   <div id="badges" align="center">
   <a> 
     <img src="https://komarev.com/ghpvc/?username=williamjiang26&style=for-the-badge&label=VIEWS" alt="Pageview Badge"/>
