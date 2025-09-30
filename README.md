@@ -2,7 +2,7 @@
 <!-- <div id="header" align="center">
   <img src="1672159096554.jpeg"/>
 </div> -->
-<p align="center">
+<!-- <p align="center">
 <h1 align="center"><strong>Hi! I'm William</strong></h1>
   <div id="badges" align="center">
   <a> 
@@ -20,8 +20,7 @@
 </div>
 
 </p>
-<br>
+<br> -->
 
----
 
 
