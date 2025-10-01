@@ -16,7 +16,7 @@
   </a>
 </div>
 <div align="center">
-    I'm based in NYC. I'm interested in startups, emerging tech and operations of large engineering projects.  I'm an engineer who builds and designs products for the user solving their problem. Currently I am working on software for small business operations.
+    I'm based in NYC. I'm interested in startups, emerging tech and scalable distributed applications.  I build and design products to fit the end user. I'm interested in internal tools for SMBs, marketplaces and consumer products. I'm interested in B2B, robotics and fintech industries. Currently I am working on a order management platform for SMB operations. 
 </div>
 
 </p>
