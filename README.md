@@ -21,6 +21,6 @@
 <br> -->
 
 <div align="center">
-    I'm based in NYC. I'm interested in startups, emerging tech and scalable distributed applications.  I build and design products to fit the end user. I'm interested in internal tools for SMBs, marketplaces and consumer products. I'm interested in B2B, robotics and fintech industries. Currently I am working on a order management platform for SMB operations. 
+    Hi, I'm William. I am based in NYC. I'm a software engineer with experience in full stack development. I enjoy building products and designing intuitive, easy to use user experiences. 
 </div>
 
