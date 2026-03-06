@@ -4,19 +4,19 @@
 </div> 
 <p align="center">
 <h1 align="center"><strong>Hi! I'm William</strong></h1>
-<div align="center">
+<div align="center" padding="1px">
      I am based in NYC. I'm a software engineer with experience in full stack development. I enjoy building products and designing intuitive, easy to use user experiences. 
 </div>
   <div id="badges" align="center">
-  <a> 
-    <img src="https://komarev.com/ghpvc/?username=williamjiang26&style=for-the-badge&label=VIEWS" alt="Pageview Badge"/>
-  </a>
-  <a href="http://williamjiang.me">
-    <img src="https://img.shields.io/badge/Portfolio-yellow?style=for-the-badge&" alt="Portfolio Badge"/>
-  </a>
-  <a href="https://www.linkedin.com/in/williamjiang26/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
+    <a> 
+      <img src="https://komarev.com/ghpvc/?username=williamjiang26&style=for-the-badge&label=VIEWS" alt="Pageview Badge"/>
+    </a>
+    <a href="http://williamjiang.me">
+      <img src="https://img.shields.io/badge/Portfolio-yellow?style=for-the-badge&" alt="Portfolio Badge"/>
+    </a>
+    <a href="https://www.linkedin.com/in/williamjiang26/">
+      <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+    </a>
 </div>
 
 
