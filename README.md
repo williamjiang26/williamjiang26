@@ -3,9 +3,8 @@
   <img src="1672159096554.jpeg"/>
 </div> 
 <p align="center">
-<h1 align="center"><strong>Hi! I'm William</strong></h1>
-<div align="center" >
-     I am based in NYC. I'm a software engineer with experience in full stack development. I enjoy building products and designing intuitive, easy to use user experiences. 
+ <div align="center" >
+     Hi! I'm William. I am based in NYC. I'm a software engineer with experience in full stack development. I enjoy building products and designing intuitive, easy to use user experiences. 
 </div>
   <div id="badges" align="center">
     <a> 
