@@ -21,12 +21,12 @@
 projects:
 - revisiting hacknyu project
 - ecomm store
-mobile app
-business dashboard
-pos
-AI study tool
-AI professor recommendation + course planner
-AI warehouse management
+- mobile app
+- business dashboard
+- pos
+- AI study tool
+- AI professor recommendation + course planner
+- AI warehouse management
 </p>
 <br>
 
