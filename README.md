@@ -17,10 +17,10 @@
       <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
     </a>
 </div>
-github stats
-projects im currently working on:
-revisiting hacknyu project
-ecomm store
+
+projects:
+- revisiting hacknyu project
+- ecomm store
 mobile app
 business dashboard
 pos
