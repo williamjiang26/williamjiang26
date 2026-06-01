@@ -25,7 +25,7 @@ projects:
 - business dashboard
 - pos
 - [AI study tool](https://github.com/williamjiang26/flashcard-saas) - study any topic by creating flashcard sets instantly
-- AI professor recommendation + course planner
+- [NYU SH Course Planner](- get recommendations on professors and create course schedule with AI
 - AI warehouse management
 </p>
 <br>
