@@ -19,14 +19,14 @@
 </div>
 
 projects:
-- revisiting hacknyu project
-- ecomm store
-- mobile app
-- business dashboard
-- pos
+- [ecomm store]() -
+- [mobile app]() -
+- [business dashboard]() -
+- [pos]() -
 - [AI study tool](https://github.com/williamjiang26/flashcard-saas) - study any topic by creating flashcard sets instantly
 - [NYU SH Course Planner](https://github.com/williamjiang26/NYUSH_rmp_agent)- get recommendations on professors and create course schedule with AI
-- [Warehouse management](https://github.com/williamjiang26/inventorymanagement) - manage inventory by taking a picture of the product 
+- [Warehouse management](https://github.com/williamjiang26/inventorymanagement) - manage inventory by taking a picture of the product
+- [revisiting hacknyu project]() -
 </p>
 <br>
 
