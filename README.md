@@ -24,7 +24,7 @@ projects:
 - mobile app
 - business dashboard
 - pos
-- <a url={"https://github.com/williamjiang26/flashcard-saas"}>AI study tool</a> - study any topic by creating flashcard sets instantly
+- [AI study tool](https://github.com/williamjiang26/flashcard-saas) - study any topic by creating flashcard sets instantly
 - AI professor recommendation + course planner
 - AI warehouse management
 </p>
