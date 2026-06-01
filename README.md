@@ -26,7 +26,7 @@ projects:
 - pos
 - [AI study tool](https://github.com/williamjiang26/flashcard-saas) - study any topic by creating flashcard sets instantly
 - [NYU SH Course Planner](https://github.com/williamjiang26/NYUSH_rmp_agent)- get recommendations on professors and create course schedule with AI
-- AI warehouse management
+- [Warehouse management](https://github.com/williamjiang26/inventorymanagement) - manage inventory by taking a picture of the product 
 </p>
 <br>
 
