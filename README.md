@@ -21,7 +21,7 @@
 projects:
 - [ecomm store](https://ecomm-store-rosy.vercel.app/) - ecommerce website
 - [mobile app]() - mobile app ordering and rewards for retail
-- [business dashboard]() - order management for retail store
+- [business dashboard](https://williamjiang.me/businessdashboard) - order management for retail store
 - [AI study tool](https://github.com/williamjiang26/flashcard-saas) - study any topic by creating flashcard sets instantly
 - [NYU SH Course Planner](https://github.com/williamjiang26/NYUSH_rmp_agent)- get recommendations on professors and create course schedule with AI
 - [Warehouse management](https://github.com/williamjiang26/inventorymanagement) - manage inventory by taking a picture of the product
