@@ -7,7 +7,6 @@
      Hi! I'm William. I am based in NYC. I'm a software engineer who enjoys building and designing products with intuitive, easy to use, user experiences.
  
   <div id="badges" align="center">
-
     <a href="http://williamjiang.me">
       <img src="https://img.shields.io/badge/Portfolio-yellow?style=for-the-badge&" alt="Portfolio Badge"/>
     </a>
