@@ -7,6 +7,7 @@
      Hi! I'm William. I am based in NYC. I'm a software engineer who enjoys building and designing products with intuitive, easy to use, user experiences.
  
   <div id="badges" align="center">
+   <a> <img src="https://komarev.com/ghpvc/?username=williamjiang26&style=for-the-badge&label=VIEWS" alt="Pageview Badge"/> </a>
     <a href="http://williamjiang.me">
       <img src="https://img.shields.io/badge/Portfolio-yellow?style=for-the-badge&" alt="Portfolio Badge"/>
     </a>
@@ -24,7 +25,7 @@ projects:
 - [Warehouse management](https://github.com/williamjiang26/inventorymanagement) - manage inventory by taking a picture of the product
 <!-- - [pos]() - pos app for retail -->
 <!-- - [revisiting hacknyu project]() - -->
-<!-- <a> <img src="https://komarev.com/ghpvc/?username=williamjiang26&style=for-the-badge&label=VIEWS" alt="Pageview Badge"/> </a>  -->
+<!--    -->
 </p>
 <br>
 
