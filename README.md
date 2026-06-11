@@ -17,7 +17,7 @@
 </div>
 
 projects:
-- [ecommerce store](https://ecomm-store-rosy.vercel.app/) - ecommerce website
+- [ecommerce store](https://ecomm-store-rosy.vercel.app/) - ecommerce website, mobile responsive, for retail
 - [mobile app](https://github.com/williamjiang26/mobile-storefront) - mobile app ordering and rewards for retail
 - [business dashboard](https://williamjiang.me/businessdashboard) - order management for retail store
 - [study tool](https://github.com/williamjiang26/flashcard-saas) - study any topic by creating flashcard sets instantly
