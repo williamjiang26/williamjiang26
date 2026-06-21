@@ -18,14 +18,13 @@
 
 projects:
 - [ecommerce store](https://ecomm-store-rosy.vercel.app/) - ecommerce website, mobile responsive, for retail
-- [mobile app](https://github.com/williamjiang26/mobile-storefront) - mobile app ordering and rewards for retail
 - [business dashboard](https://williamjiang.me/businessdashboard) - order management for retail store
 - [study tool](https://github.com/williamjiang26/flashcard-saas) - study any topic by creating flashcard sets instantly
 - [NYU SH Course Planner](https://github.com/williamjiang26/NYUSH_rmp_agent)- get recommendations on professors and create course schedule
 - [Warehouse management](https://github.com/williamjiang26/inventorymanagement) - manage inventory by taking a picture of the product
 <!-- - [pos]() - pos app for retail -->
 <!-- - [revisiting hacknyu project]() - -->
-<!--    -->
+<!-- - [mobile app](https://github.com/williamjiang26/mobile-storefront) - mobile app ordering and rewards for retail -->
 </p>
 <br>
 
